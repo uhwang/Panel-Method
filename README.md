@@ -1,4 +1,4 @@
 # Panel-Method
-Low Order Panel Method <br>
-$$\varphi_i={\frac{\lambda_j}{2\pi}\int_{j}{\ln(r_{ij})ds_j}}$$
-$$\varphi=\sum_{j=1}^{N}{\frac{\gamma_j}{2\pi}\int_{j}{\ln\funcapply(r_{ij})ds_j}}$$
+Low Order Panel Method <br> 
+$$\varphi_i={\frac{\lambda_j}{2\pi}\int_{j}{\ln(r_{ij})ds_j}}$$ <br>
+$$\varphi=\sum_{j=1}^{N}{\frac{\gamma_j}{2\pi}\int_{j}{\ln(r_{ij})ds_j}}$$<br>
