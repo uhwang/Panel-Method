@@ -10,4 +10,4 @@ $$\frac{\partial \phi}{\partial n} = \frac{\partial \phi_U}{\partial n}+\frac{\p
 
 $$\frac{\partial \phi_U}{\partial n}=U\cos(\alpha)\frac{\partial x}{\partial  n} + U\sin(\alpha)\frac{\partial y}{\partial n}$$ <br>
 
-$$\frac{\partial \phi_S}{\partial n}=\sum_{j=1}^{N}{\frac{\gamma_j}{2\pi}\int_{j}{\frac{\partial}{\partial n}\ln(r_{ij})ds_j}$$<br>
+$$\frac{\partial \phi_S}{\partial n}=\sum_{j=1}^{N}{\frac{\gamma_j}{2\pi}\int_{j}{\frac{\partial}{\partial n}\ln(r_{ij})ds_j}}$$<br>
