@@ -1,13 +1,26 @@
-# Panel-Method
-Low Order Panel Method <br> 
-$$\varphi_{Sj}={\frac{\lambda_j}{2\pi}\int_{j}{\ln(r_{ij})ds_j}}$$ <br>
-$$\varphi_S=\sum_{j=1}^{N}{\frac{\gamma_j}{2\pi}\int_{j}{\ln(r_{ij})ds_j}}$$<br>
-$$\varphi_U = U\cos(\alpha) x + U\sin(\alpha)y $$<br>
-$$\varphi = \varphi_U + \varphi_s $$ <br>
-$$\varphi = U\cos(\alpha) x + U\sin(\alpha)y + \sum_{j=1}^{N}{\frac{\gamma_j}{2\pi}\int_{j}{\ln(r_{ij})ds_j}} $$ <br>
-$$\frac{\partial \phi}{\partial n}=0 $$<br>
-$$\frac{\partial \phi}{\partial n} = \frac{\partial \phi_U}{\partial n}+\frac{\partial \phi_S}{\partial n}$$<br>
+Source Panel Method
+![Image](https://github.com/user-attachments/assets/709a1be2-0b12-4db0-9a00-bc4cb9bb2c27)
 
-$$\frac{\partial \phi_U}{\partial n}=U\cos(\alpha)\frac{\partial x}{\partial  n} + U\sin(\alpha)\frac{\partial y}{\partial n}$$ <br>
+![Image](https://github.com/user-attachments/assets/9073b362-9f4c-4791-9fe6-4a5c120409aa)
 
-$$\frac{\partial \phi_S}{\partial n}=\sum_{j=1}^{N}{\frac{\gamma_j}{2\pi}\int_{j}{\frac{\partial}{\partial n}\ln(r_{ij})ds_j}}$$<br>
+![Image](https://github.com/user-attachments/assets/f03b7f9e-8a5d-413c-8dac-c03734f0d758)
+
+![Image](https://github.com/user-attachments/assets/d94051e6-18ad-42d3-9e6f-afa3e57ca0df)
+
+![Image](https://github.com/user-attachments/assets/c03eae73-3978-46a4-9f1a-8c398e3fcc21)
+
+![Image](https://github.com/user-attachments/assets/40017aff-6c6f-4523-be0c-67f7bb024396)
+
+![Image](https://github.com/user-attachments/assets/45603762-e322-48cd-9e7f-865f4f066775)
+
+![Image](https://github.com/user-attachments/assets/228fba7f-0625-4f01-8848-634798f56c72)
+
+![Image](https://github.com/user-attachments/assets/e506f870-abd2-4bc8-8f9e-80f439211d85)
+
+![Image](https://github.com/user-attachments/assets/c5c368ff-f202-4724-aebf-ace727cab123)
+
+![Image](https://github.com/user-attachments/assets/f9fa18ef-895a-43b8-a90a-34a43711e489)
+
+![Image](https://github.com/user-attachments/assets/778cfa44-e56e-407a-b9d2-de885c3d9f33)
+
+![Image](https://github.com/user-attachments/assets/5e861e7b-4a29-4c11-bc02-598b85ede730)
